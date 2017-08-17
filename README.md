@@ -1,6 +1,6 @@
 # Stochastic-Optimization-Library
 
-This repository contains the draft of a working paper on the creation of a common test-set for stochastic optimization problems.
+This repository contains the draft of a working paper on the creation of a common test-set for stochastic optimization problems. It is also available on [ShareLatex](https://www.sharelatex.com/project/59556d23c8f18fc31bc955d5).
 
 This project will only work if the community collectively agrees on the underlying format these problems should be expressed in.
 
